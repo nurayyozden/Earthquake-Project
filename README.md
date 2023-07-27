@@ -1,5 +1,5 @@
 # Earthquake-Project
-A 3-part project on Turkey's earthquakes from 1915 - May 2023.
+A 3-part project on Turkey's earthquakes from 1915 - May 2023. This is not a school project, but a personal exploration I did in my own time and interest.
 
 Project 1 (P1): Video explanation of data cleaning, transformation and interpretation.
 
